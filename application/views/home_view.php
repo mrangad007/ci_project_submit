@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,7 +47,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="<?php echo base_url(); ?>home">Company Name</a>
+                <a class="navbar-brand topnav" href="<?php echo base_url(); ?>">Company Name</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -88,6 +89,9 @@
                             </li>
                             <li>
                                 <a href="https://www.instagram.com/Company_Name" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/Company_Name" class="btn btn-default btn-lg"><span class="network-name"><i class="fa fa-github fa-fw"></i>Github</span></a>
                             </li>
                         </ul>
                     </div>

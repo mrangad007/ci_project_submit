@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="<?php echo base_url(); ?>home">Developer Profile</a>
+                <a class="navbar-brand topnav" href="#">Developer Profile</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -82,6 +82,7 @@
                         <ul class="list-inline intro-social-buttons">
                             <li>
                                 <a href="" class="btn btn-success btn-lg"><span class="network-name">Yes I'M AVAILABLE FOR HIRE</span></a>
+                                <br/><br/><a href="https://github.com/mrangad007" class="btn btn-default btn-lg"><span class="network-name"><i class="fa fa-github fa-fw"></i>Github</span></a>
                             </li>
                         </ul>
                     </div>
